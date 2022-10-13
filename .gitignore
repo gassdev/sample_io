@@ -1,0 +1,6 @@
+*.jpg
+*.png
+.vscode/
+.venv/
+*.sqlite3
+__pycache__
